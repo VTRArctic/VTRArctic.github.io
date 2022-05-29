@@ -13,7 +13,7 @@ If you are unhappy with the random assignment (for example, if you were assigned
 
 Rerolling is no longer possible once your character has advanced beyond level 10.
 
-Finally, you must designate one stat as your primary stat. The stat you select is given a flat +1 bonus, while all other stats remain unchanged. In our Human Warrior example, it would then be possible for you to be assigned a `STR` of `19`, if you had selected `STR` as your primary stat and then rolled the `high` value of `18`.
+You must also designate one stat as your primary stat. The selected stat is given a flat +1 bonus, while all other stats remain unchanged. In our Human Warrior example, it would then be possible for you to be assigned a `STR` of `19`, if you had selected `STR` as your primary stat and then rolled the `high` value of `18`.
 
 Generally speaking, better characters will have rolled the `high` value in all of their stats.
 
