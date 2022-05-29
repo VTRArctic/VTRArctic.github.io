@@ -1,5 +1,5 @@
 &nbsp;
-## Stats
+## Reincarnation Tips
 
 Gear can be swapped, but stat point allocations from reincarnations cannot be. After your final reincarnation, you also cannot change your primary stat selection. This makes it extremely important to allocate these stat points wisely, as they are permanent, irreversible decisions.
 
