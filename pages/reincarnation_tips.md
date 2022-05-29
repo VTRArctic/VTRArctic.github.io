@@ -31,7 +31,7 @@ Suppose our end-game character is a Dargonesti Paladin. Assuming we select `STR`
 
 ### Jordan's Answer
 - The maximum natural roll for a Dargonesti Paladin's `STR` is `19`. 
-- Selecting it as their primary stat increases it to `20`. 
-- They gain +2 from the Legendary Righteous Indignation rank, increasing it to `22`.
-- They can also gain +2 from their medal, increasing it to `24`.
-- Thus, they should allocate no more than 2 points to `STR` (ending up at `26`).
+- Selecting it as our primary stat increases it to `20`. 
+- We gain +2 from the Legendary Righteous Indignation rank, increasing it to `22`.
+- We can also gain +2 from our medal, increasing it to `24`.
+- Thus, we should allocate no more than 2 points to `STR` (ending up at `26`).
