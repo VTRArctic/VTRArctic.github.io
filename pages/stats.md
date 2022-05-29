@@ -5,11 +5,15 @@ In Arctic, your base stat range is determined by your class, and then modified b
 
 Two characters of the same class, but different races (or vice versa) may have different stat ranges. Only when two characters share both the same class and race will their base stat ranges be identical. 
 
-For each race + class combination, the game designates a `high` value and a `low` value for each stat. These values differ from each other by exactly 1. 
+For each race + class combination, the game designates a `high` value and a `low` value for each stat. These values differ from each other by exactly 1. For example, a Human Warrior's `STR` has a `high` value of `18` and a `low` value of `17`.
 
-For example, a `Human` `Warrior`'s `STR` has a `high` value of `18` and a `low` value of `17`.
+The game then randomly assigns one of these two values to be your 'true' value for that stat. This random assignment is referred to as the 'stat roll' or simply 'roll'.
 
-The game then randomly assigns one of these two values to be your 'true' stat. 
+If you are unhappy with the random assignment (for example, if you were assigned the `low` value in many stats) you can force the game to re-roll the assignment by selecting "reroll this character" from the login screen and re-leveling your character to level 3. Unsurprisingly, this process is referred to as "rerolling".
+
+Rerolling is no longer possible once your character has advanced beyond level 10.
+
+You are also allowed to designate one stat as your primary stat. The stat you select is given a flat +1 bonus. In our Human Warrior example, it would then be possible for you to be assigned a `STR` of `19`, if you had selected `STR` as your primary stat and rolled the `high` value of `18`.
 
 Generally speaking, better characters will have rolled the `high` value in all of their stats.
 
